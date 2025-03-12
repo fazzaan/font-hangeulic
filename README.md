@@ -6,8 +6,8 @@ _Improved Hangeulisticism is in the works._
 * No numbers, punctuation, symbols or diacritics yet.
 
 Download latest versions:
-* Chunky weight 1.005 [NewEng_Hangeul_Style_Chunky-v1.005.otf](https://github.com/fazzaan/font-hangeulic/blob/main/NewEng_Hangeul_Style_Chunky-v1.005.otf)
-* Regular weight 1.003 [NewEng_Hangeul_Style_Regular-v1.003.otf](https://github.com/fazzaan/font-hangeulic/blob/main/NewEng_Hangeul_Style_Regular-v1.003.otf)
+* Chunky weight 1.005 [NewEng_Hangeul_Style_Chunky-v1.005.otf](NewEng_Hangeul_Style_Chunky-v1.005.otf)
+* Regular weight 1.003 [NewEng_Hangeul_Style_Regular-v1.003.otf](NewEng_Hangeul_Style_Regular-v1.003.otf)
 
 (These versions are NOT in sync for features currently.)
 
